@@ -26,7 +26,7 @@ var userid = '<sec:authentication property="principal.username" />';
 
 </script>
 <script src="${appRoot }/resources/js/eatget.js"></script>
-<title>맛집 리스트</title>
+<title>맛집 리스트1</title>
 <script>
 	$(document).ready(function() {
 		$("#list-pagenation1 a").click(function(e) {
